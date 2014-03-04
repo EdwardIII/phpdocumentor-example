@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpdocumentor/phpdocumentor": "v2.3.1"
+    },
+    "minimum-stability": "dev"
+}
